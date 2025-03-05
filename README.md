@@ -1,1 +1,1 @@
-# Motor de Passo controlado por Arduino Duemilanove com board Ethernet
+# Motor de Passo controlado por Arduino Duemilanove + board Ethernet
