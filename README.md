@@ -35,7 +35,6 @@ Este projeto permite controlar um motor de passo através de uma interface web, 
 4. Você verá uma página web com dois botões:
    - **Girar para Frente**: Gira o motor de passo no sentido horário.
    - **Girar para Trás**: Gira o motor de passo no sentido anti-horário.
-5. Clique em voltar parando o motor e retornando a página inicial.
 
 ## Código
 
